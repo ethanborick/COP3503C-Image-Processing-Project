@@ -4,7 +4,6 @@
 #include <fstream>
 using namespace std;
 
-//(1) Declare a Header struct
 struct Header {
     char idLength;
     char colorMapType;
